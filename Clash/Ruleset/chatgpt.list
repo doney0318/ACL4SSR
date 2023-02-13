@@ -1,6 +1,6 @@
 # 内容：ChatGPT
-USER-AGENT,*chatgpt*
-USER-AGENT,chatgpt*
+# USER-AGENT,*chatgpt*
+# USER-AGENT,chatgpt*
 DOMAIN-KEYWORD,openai
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,auth0.com
