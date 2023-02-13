@@ -1,16 +1,13 @@
-# 内容：ChatGPT
-# USER-AGENT,*chatgpt*
-# USER-AGENT,chatgpt*
-DOMAIN-KEYWORD,openai
-DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,auth0.com
-DOMAIN-SUFFIX,deepl.com
-DOMAIN-SUFFIX,sentry.io
-DOMAIN-SUFFIX,hcaptcha.com
-DOMAIN-SUFFIX,recaptcha.net
-DOMAIN-SUFFIX,gstatic.com
-DOMAIN-SUFFIX,gvt2.com
-DOMAIN-SUFFIX,gvt1.com
-DOMAIN-SUFFIX,gvt3.com
-DOMAIN-SUFFIX,msftconnecttest.com
-DOMAIN-SUFFIX,sfx.ms
+HOST-KEYWORD,openai, ChatGPT
+HOST-SUFFIX,openai.com, ChatGPT
+HOST-SUFFIX,auth0.com, ChatGPT
+HOST-SUFFIX,deepl.com, ChatGPT
+HOST-SUFFIX,sentry.io, ChatGPT
+HOST-SUFFIX,hcaptcha.com, ChatGPT
+HOST-SUFFIX,recaptcha.net, ChatGPT
+HOST-SUFFIX,gstatic.com, ChatGPT
+HOST-SUFFIX,gvt2.com, ChatGPT
+HOST-SUFFIX,gvt1.com, ChatGPT
+HOST-SUFFIX,gvt3.com, ChatGPT
+HOST-SUFFIX,msftconnecttest.com, ChatGPT
+HOST-SUFFIX,sfx.ms, ChatGPT
