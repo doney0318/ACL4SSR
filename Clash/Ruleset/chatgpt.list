@@ -12,8 +12,8 @@ HOST-SUFFIX,gvt3.com, ChatGPT
 HOST-SUFFIX,msftconnecttest.com, ChatGPT
 HOST-SUFFIX,sfx.ms, ChatGPT
 HOST-SUFFIX,nexus-websocket-a.intercom.io, ChatGPT
-HOST,browser-intake-datadoghq.com
-HOST,static.cloudflareinsights.com
+HOST-SUFFIX,browser-intake-datadoghq.com
+HOST-SUFFIX,static.cloudflareinsights.com
 HOST-SUFFIX,ai.com
 HOST-SUFFIX,algolia.net
 HOST-SUFFIX,api.statsig.com
