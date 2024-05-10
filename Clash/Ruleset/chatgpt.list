@@ -12,25 +12,25 @@ HOST-SUFFIX,gvt3.com, ChatGPT
 HOST-SUFFIX,msftconnecttest.com, ChatGPT
 HOST-SUFFIX,sfx.ms, ChatGPT
 HOST-SUFFIX,nexus-websocket-a.intercom.io, ChatGPT
-HOST-SUFFIX,browser-intake-datadoghq.com
-HOST-SUFFIX,static.cloudflareinsights.com
-HOST-SUFFIX,ai.com
-HOST-SUFFIX,algolia.net
-HOST-SUFFIX,api.statsig.com
-HOST-SUFFIX,chatgpt.com
-HOST-SUFFIX,chatgpt.livekit.cloud
-HOST-SUFFIX,client-api.arkoselabs.com
-HOST-SUFFIX,events.statsigapi.net
-HOST-SUFFIX,featuregates.org
-HOST-SUFFIX,host.livekit.cloud
-HOST-SUFFIX,identrust.com
-HOST-SUFFIX,intercom.io
-HOST-SUFFIX,intercomcdn.com
-HOST-SUFFIX,launchdarkly.com
-HOST-SUFFIX,oaistatic.com
-HOST-SUFFIX,oaiusercontent.com
-HOST-SUFFIX,observeit.net
-HOST-SUFFIX,segment.io
-HOST-SUFFIX,sentry.io
-HOST-SUFFIX,stripe.com
-HOST-SUFFIX,turn.livekit.cloud
+HOST-SUFFIX,browser-intake-datadoghq.com, ChatGPT
+HOST-SUFFIX,static.cloudflareinsights.com, ChatGPT
+HOST-SUFFIX,ai.com, ChatGPT
+HOST-SUFFIX,algolia.net, ChatGPT
+HOST-SUFFIX,api.statsig.com, ChatGPT
+HOST-SUFFIX,chatgpt.com, ChatGPT
+HOST-SUFFIX,chatgpt.livekit.cloud, ChatGPT
+HOST-SUFFIX,client-api.arkoselabs.com, ChatGPT
+HOST-SUFFIX,events.statsigapi.net, ChatGPT
+HOST-SUFFIX,featuregates.org, ChatGPT
+HOST-SUFFIX,host.livekit.cloud, ChatGPT
+HOST-SUFFIX,identrust.com, ChatGPT
+HOST-SUFFIX,intercom.io, ChatGPT
+HOST-SUFFIX,intercomcdn.com, ChatGPT
+HOST-SUFFIX,launchdarkly.com, ChatGPT
+HOST-SUFFIX,oaistatic.com, ChatGPT
+HOST-SUFFIX,oaiusercontent.com, ChatGPT
+HOST-SUFFIX,observeit.net, ChatGPT
+HOST-SUFFIX,segment.io, ChatGPT
+HOST-SUFFIX,sentry.io, ChatGPT
+HOST-SUFFIX,stripe.com, ChatGPT
+HOST-SUFFIX,turn.livekit.cloud, ChatGPT
