@@ -8,6 +8,7 @@
 HOST-SUFFIX,cdninstagram.com,Instagram
 HOST-SUFFIX,instagr.am,Instagram
 HOST-SUFFIX,instagram.com,Instagram
+host-suffix,fbcdn.net,Instagram
 host-suffix,facebook.com,Instagram
 host-suffix,twimg.com,Instagram
 host-suffix,line-apps.com,Instagram
